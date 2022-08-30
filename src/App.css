@@ -2,15 +2,22 @@
   background-color: rgb(2, 50, 92);
   height: 100%;
   margin: 0;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding: 20px 300px;
 }
 .content{
-  margin: auto;
+  background-color: aliceblue;
+
 }
 .heading{
   font-size: 3rem;
-  text-align: center;
+  
 }
 
 .img{
-  width: 20%;
+  width: 40%;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
